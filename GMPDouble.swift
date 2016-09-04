@@ -226,7 +226,7 @@ public class GMPDouble {
 }
 
 // for init with string
-extension GMPDouble : LosslessStringConvertible { }
+// extension GMPDouble : LosslessStringConvertible { }
 // for description
 extension GMPDouble : CustomStringConvertible { }
 // for operators
